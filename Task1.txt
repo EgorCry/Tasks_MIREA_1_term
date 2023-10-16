@@ -1,0 +1,14 @@
+Task1_1
+Used 5119168 bites
+Usage time: 16516 milliseconds
+Maximum element of massive: 9999
+
+Task1_2
+Used 5119168 bites
+Usage time: 3 milliseconds
+Maximum element of massive: 9999
+
+Task1_3
+Used 8139264 bites
+Usage time: 2283 milliseconds
+Maximum element of massive: 9999
